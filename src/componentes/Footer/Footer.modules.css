@@ -1,0 +1,44 @@
+.conjunto{
+    position: absolute;
+    width: 1100px;
+    height: 38px;
+    top: 975px;
+    left: 266px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+
+.exemplo{
+    position: absolute;
+    width: 250px;
+    height: 161px;
+    left: -266px;
+    
+    
+}
+
+.texto{
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.explore{
+    width: 437px;
+    height: 161px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    background: #000000;
+    top: 10000px;
+   
+}

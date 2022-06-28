@@ -1,0 +1,63 @@
+.titulo{
+    position: absolute;
+    width: 357px;
+    height: 272px;
+    left: 111px;
+    top: 190px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+
+    color: #000000;
+}
+
+.descricao{
+    position: absolute;
+    width: 342px;
+    height: 57px;
+    left: 111px;
+    top: 493px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #9C9696;
+}
+
+.preco{
+    position: absolute;
+    width: 220px;
+    height: 42px;
+    left: 111px;
+    top: 561px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+}
+
+.botao{
+    position: absolute;
+    width: 274px;
+    height: 90px;
+    left: 111px;
+    top: 633px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    
+    background: #FF0000;
+}

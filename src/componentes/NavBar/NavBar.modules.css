@@ -1,0 +1,36 @@
+.NavBar{
+    position: absolute;
+    width: 1320px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    z-index: 1;
+}
+
+.logo{
+    width: 52px;
+    height: 36px;
+}
+
+.barra{
+    width: 97px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color: black;
+}
+
+.pesquisar{
+    width: 220px;
+    height: 35px;
+    background-image: url(./icon-search.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 1.3em;
+    padding-left: 1.3em;
+}
